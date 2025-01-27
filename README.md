@@ -104,6 +104,4 @@ Se tiver dúvidas ou encontrar problemas, entre em contato pelo e-mail: [cs@inst
 
 ---
 
-## 📝 Licença
 
-Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo `LICENSE` para mais detalhes.
