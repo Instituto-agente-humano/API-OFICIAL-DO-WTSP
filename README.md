@@ -100,7 +100,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 ## 📧 Suporte
 
-Se tiver dúvidas ou encontrar problemas, entre em contato pelo e-mail: [karolanne.developer@gmail.com](mailto:karolanne.developer@gmail.com).
+Se tiver dúvidas ou encontrar problemas, entre em contato pelo e-mail: [cs@institutoagentehumano.com.br](mailto:cs@institutoagentehumano.com.br).
 
 ---
 
