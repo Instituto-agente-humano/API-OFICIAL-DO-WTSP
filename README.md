@@ -47,6 +47,8 @@ Antes de executar este projeto, certifique-se de ter:
    Este projeto utiliza apenas o `axios`. Para instalá-lo, execute:
    ```bash
    npm install axios
+   npm install axios express dotenv cors
+
    ```
 
 3. **Configure as variáveis**:
